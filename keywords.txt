@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+detectResetCount	KEYWORD2
+waitForDetect	KEYWORD2
+stopDetecting	KEYWORD2
+isWaitingForNextReset	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+ResetDetector	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
